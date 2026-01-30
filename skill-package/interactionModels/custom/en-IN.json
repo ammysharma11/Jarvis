@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "jarvis",
+      "invocationName": "baby",
       "intents": [
         {
           "name": "CatchAllIntent",
