@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {}
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Jarvis",
+          "summary": "AI home assistant",
+          "description": "Your AI-powered home assistant.",
+          "examplePhrases": [
+            "Alexa, open Jarvis"
+          ]
+        },
+        "en-IN": {
+          "name": "Jarvis",
+          "summary": "AI home assistant",
+          "description": "Your AI-powered home assistant.",
+          "examplePhrases": [
+            "Alexa, open Jarvis"
+          ]
+        }
+      }
+    }
+  }
+}
